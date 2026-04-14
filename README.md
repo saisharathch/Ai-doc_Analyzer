@@ -12,6 +12,12 @@ This is not positioned as a simple chatbot demo. It is an AI application systems
 - typed API boundaries and request validation
 - real-time streaming responses
 - production-minded handling of prompt injection risk, file validation, and deployment concerns
+  
+  ## Demo
+
+![Upload](./screenshots/Ai-doc-SS2.png)
+![Summary](./screenshots/AI-Document%20ScreentShot-1.png)
+![Chat](./screenshots/Ai-Doc-SS3.png)
 
 ## Core capabilities
 
